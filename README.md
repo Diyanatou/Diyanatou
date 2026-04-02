@@ -1,5 +1,5 @@
 # Hello, I'm OURO-M'BON Diyanatou 👋
-**Information Systems Student ** | Fullstack Developer 
+Information Systems Student | Fullstack Developer 
 
 > Passionate about building modern web solutions and crafting intuitive user interfaces.
 
