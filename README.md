@@ -1,23 +1,12 @@
 <div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="25" alt="Laravel logo">
-  &nbsp;&nbsp;&nbsp;
-  <strong>Hello, I'm OURO-M'BON Diyanatou 👋</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="25" alt="Laravel logo">
-</p>
 
-<p align="center" style="margin-top: -10px;">
-  <em>Information Systems Student  • Fullstack Developer • UI/UX Designer</em>
-</p>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="35"> Hello, I'm OURO-M'BON Diyanatou 👋 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="35">
 
-<p align="center">
- *Passionate about building modern web solutions and crafting intuitive user interfaces.*
-</p>
+Information Systems Student • Fullstack Developer • UI/UX Designer
 
-<br>
+> *Passionate about building modern web solutions and crafting intuitive user interfaces.*
+
 ---
-<br>
 
 </div>
 
