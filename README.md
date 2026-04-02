@@ -22,7 +22,7 @@ I am currently a third-year **Information Systems** student. My focus lies in de
 
 <div align="center">
 
-###### ◈ Front-end 
+### ◈ Front-end 
 ![Tailwind](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
